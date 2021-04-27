@@ -1,0 +1,1 @@
+# ElastAler module for MS Teams
